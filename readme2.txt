@@ -1,2 +1,2 @@
 pierwsza linijka
-druga linijka
+druga zmiana linijka
